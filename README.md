@@ -1,4 +1,10 @@
-# 💫 About Me:
+# Hi there 👋, I'm Nishu Kumar
+
+![Profile Views](https://komarev.com/ghpvc/?username=NISHU8875)
+
+---
+
+# 👨‍💻 About Me:
 
 **AI Engineer | Specialist in Agentic Workflows & Generative AI**
 
