@@ -1,6 +1,19 @@
 # 💫 About Me:
-I'm a passionate engineer currently diving deep into Generative AI , Agentic AI, Data Science, ML & DL!<br>I love building Agentic Ai projects and experimenting with new technologies. My journey involves exploring new tools, algorithms, and sharing my learnings.<br>I would love to interact with similar minds working on latest AI technologies.<br>Generative AI, Agentic AI <br>Generative AI, Agentic AI, Python, SQL, Data Visualization, Machine Learning, Deep Learning, Deployment, Statistics.<br>Agentic AI is the new electricity, but it only powers progress when given a clear mission!
 
+**AI Engineer | Specialist in Agentic Workflows & Generative AI**
+
+I am a results-driven engineer dedicated to bridging the gap between raw data and autonomous intelligence. My work focuses on building scalable **Agentic AI systems** and **Multi-Agent Data Science frameworks** that transform complex business logic into executable, automated solutions.
+
+### 🛠️ Core Expertise
+
+* **Agentic AI & Orchestration:** Designing autonomous agents and multi-agent systems (Agno, LangChain, CrewAI) for complex task automation.
+* **Generative AI:** Implementing RAG (Retrieval-Augmented Generation), fine-tuning LLMs, and prompt engineering for production-grade applications.
+* **Data Science & ML/DL:** Expertise in the full lifecycle of Machine Learning—from exploratory data analysis and statistical modeling to deploying deep learning architectures.
+* **Production Deployment:** Building robust APIs (FastAPI) and interactive dashboards (Streamlit) supported by scalable cloud infrastructure (AWS).
+
+### 💡 The Philosophy
+
+> **"Agentic AI is the new electricity, but it only powers progress when given a clear mission."**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishu-kumar-b7a7b4247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantranjan8875@gmail.com) 
