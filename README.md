@@ -22,7 +22,7 @@ I am a results-driven engineer dedicated to bridging the gap between raw data an
 > **"Agentic AI is the new electricity, but it only powers progress when given a clear mission."**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishu73/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantranjan8875@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/nishu73/](https://www.linkedin.com/in/nishu73/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantranjan8875@gmail.com) 
 
 # 💻 Tech Stack:
 
