@@ -10,12 +10,16 @@
 
 I am a results-driven engineer dedicated to bridging the gap between raw data and autonomous intelligence. My work focuses on building scalable **Agentic AI systems** and **Multi-Agent Data Science frameworks** that transform complex business logic into executable, automated solutions.
 
+---
+
 ### 🛠️ Core Expertise
 
 * **Agentic AI & Orchestration:** Designing autonomous agents and multi-agent systems (Agno, LangChain, CrewAI) for complex task automation.
 * **Generative AI:** Implementing RAG (Retrieval-Augmented Generation), fine-tuning LLMs, and prompt engineering for production-grade applications.
 * **Data Science & ML/DL:** Expertise in the full lifecycle of Machine Learning—from exploratory data analysis and statistical modeling to deploying deep learning architectures.
 * **Production Deployment:** Building robust APIs (FastAPI) and interactive dashboards (Streamlit) supported by scalable cloud infrastructure (AWS).
+
+---
 
 ### 💡 The Philosophy
 
@@ -59,6 +63,8 @@ I am a results-driven engineer dedicated to bridging the gap between raw data an
 ### OTHER
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NISHU8875&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NISHU8875&theme=dark&hide_border=false)<br/>
@@ -71,6 +77,7 @@ I am a results-driven engineer dedicated to bridging the gap between raw data an
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=NISHU8875&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
